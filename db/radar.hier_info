@@ -1,0 +1,5 @@
+|radar
+in1 => out1.DATAIN
+out1 <= in1.DB_MAX_OUTPUT_PORT_TYPE
+
+
