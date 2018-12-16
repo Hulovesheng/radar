@@ -1,0 +1,173 @@
+-- Copyright (C) 1991-2009 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=256;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=UNS;
+
+CONTENT BEGIN
+	0    :   0;
+	1    :   2;
+	2    :   3;
+	3    :   5;
+	4    :   7;
+	5    :   9;
+	6    :   10;
+	7    :   12;
+	8    :   14;
+	9    :   16;
+	10   :   17;
+	11   :   19;
+	12   :   21;
+	13   :   22;
+	14   :   24;
+	15   :   26;
+	16   :   27;
+	17   :   29;
+	18   :   31;
+	19   :   33;
+	20   :   34;
+	21   :   36;
+	22   :   38;
+	23   :   39;
+	24   :   41;
+	25   :   43;
+	26   :   44;
+	27   :   46;
+	28   :   48;
+	29   :   50;
+	30   :   51;
+	31   :   53;
+	32   :   55;
+	33   :   56;
+	34   :   58;
+	35   :   60;
+	36   :   61;
+	37   :   63;
+	38   :   65;
+	39   :   67;
+	40   :   68;
+	41   :   70;
+	42   :   72;
+	43   :   73;
+	44   :   75;
+	45   :   77;
+	46   :   78;
+	47   :   80;
+	48   :   82;
+	49   :   84;
+	50   :   85;
+	51   :   87;
+	52   :   89;
+	53   :   90;
+	54   :   92;
+	55   :   94;
+	56   :   95;
+	57   :   97;
+	58   :   99;
+	59   :   101;
+	60   :   102;
+	61   :   104;
+	62   :   106;
+	63   :   107;
+	64   :   109;
+	65   :   111;
+	66   :   112;
+	67   :   114;
+	68   :   116;
+	69   :   118;
+	70   :   119;
+	71   :   121;
+	72   :   123;
+	73   :   124;
+	74   :   126;
+	75   :   128;
+	76   :   129;
+	77   :   131;
+	78   :   133;
+	79   :   135;
+	80   :   136;
+	81   :   138;
+	82   :   140;
+	83   :   141;
+	84   :   143;
+	85   :   145;
+	86   :   146;
+	87   :   148;
+	88   :   150;
+	89   :   152;
+	90   :   153;
+	91   :   155;
+	92   :   157;
+	93   :   158;
+	94   :   160;
+	95   :   162;
+	96   :   163;
+	97   :   165;
+	98   :   167;
+	99   :   169;
+	100  :   170;
+	101  :   172;
+	102  :   174;
+	103  :   175;
+	104  :   177;
+	105  :   179;
+	106  :   180;
+	107  :   182;
+	108  :   184;
+	109  :   186;
+	110  :   187;
+	111  :   189;
+	112  :   191;
+	113  :   192;
+	114  :   194;
+	115  :   196;
+	116  :   197;
+	117  :   199;
+	118  :   201;
+	119  :   203;
+	120  :   204;
+	121  :   206;
+	122  :   208;
+	123  :   209;
+	124  :   211;
+	125  :   213;
+	126  :   214;
+	127  :   216;
+	128  :   218;
+	129  :   220;
+	130  :   221;
+	131  :   223;
+	132  :   225;
+	133  :   226;
+	134  :   228;
+	135  :   230;
+	136  :   231;
+	137  :   233;
+	138  :   235;
+	139  :   237;
+	140  :   238;
+	141  :   240;
+	142  :   242;
+	143  :   243;
+	144  :   245;
+	145  :   247;
+	146  :   248;
+	147  :   250;
+	[148..255]  :   0;
+END;
